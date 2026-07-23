@@ -1,0 +1,2 @@
+/Users/macbookpro/Desktop/Lucky 2D/build/flutter/android/app/.cxx/RelWithDebInfo/5a28r1fe/x86_64/CMakeFiles/edit_cache.dir
+/Users/macbookpro/Desktop/Lucky 2D/build/flutter/android/app/.cxx/RelWithDebInfo/5a28r1fe/x86_64/CMakeFiles/rebuild_cache.dir

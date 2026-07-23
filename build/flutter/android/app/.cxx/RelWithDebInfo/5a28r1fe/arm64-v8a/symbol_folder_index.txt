@@ -1,0 +1,1 @@
+/Users/macbookpro/Desktop/Lucky 2D/build/flutter/build/app/intermediates/cxx/RelWithDebInfo/5a28r1fe/obj/arm64-v8a
